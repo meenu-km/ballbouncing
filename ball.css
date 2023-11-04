@@ -1,0 +1,67 @@
+#canvas{
+    border-style: solid;
+    border-color: rgb(130, 10, 10);
+    border-width: 7px;
+    border-radius: 15px;
+    background-color: rgb(254, 201, 229);
+}
+h1{
+    color:rgb(25, 39, 38);
+}
+button{
+    height: 1.2cm;
+    width: 4cm;
+    border-radius: 20px;
+    font-size: large;
+    color: white;
+    background-color: rgb(75, 23, 99);
+    padding: 2px;
+    text-align: center;
+}
+p{
+    color: rgb(25, 39, 38);
+    font-size: x-large;
+}
+body{
+    background-color: rgb(203, 199, 236);
+    margin-top: 1cm;
+}
+#caption{
+    font-style: italic;
+}
+#about_button{
+    width: 5cm;
+    margin-left: 3cm;
+    float: left;
+}
+#how_to_play{
+    width: 5cm;
+    margin-right: 3cm;
+    float: right;
+}
+#about_para{
+    display: none;
+    width: 5cm;
+    height: fit-content;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+    font-size: large;
+    float: left;
+}
+#how_to_para{
+    display: none;
+    width: 5cm;
+    height: fit-content;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+    font-size: large;
+    float: right;
+}
